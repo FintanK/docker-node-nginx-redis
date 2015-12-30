@@ -26,3 +26,10 @@ Encountered issues
 FATA[0000] Get http:///var/run/docker.sock/v1.18/containers/json: dial unix /var/run/docker.sock: no such file or directory. Are you trying to connect to a TLS-enabled daemon without TLS?
 
 > $(boot2docker shellinit 2> /dev/null)
+
+Useful Commands
+
+Stopping and deleting containers
+
+> docker rm $(docker ps -a -q)
+> docker rm $(docker ps -a -q)
