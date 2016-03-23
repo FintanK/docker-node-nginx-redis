@@ -1,3 +1,11 @@
+![alt text](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png "Node.ks")
+![alt text](https://assets.wp.nginx.com/wp-content/uploads/2015/04/NGINX_logo_rgb-01.png "Nginx")
+![alt text](http://media.charlesleifer.com/blog/photos/p1432653421.74.png "Redis")
+![alt text](http://stratechery.com/wp-content/uploads/2014/12/docker.png "Docker")
+
+
+
+
 Docker - Node.js, Ngninx and redis
 
 This docker configuration spins up
